@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "Ringtone Maker"
+  },
+  "extDescription": {
+    "message": "Online audio file trimming tool"
+  },
+  "selectFile": {
+    "message": "Select Audio File"
+  },
+  "supportedFormats": {
+    "message": "Supported formats: MP3, WAV, OGG, M4A, AAC"
+  },
+  "sizeLimit": {
+    "message": "File size limit: 50MB"
+  },
+  "currentTime": {
+    "message": "Current Time"
+  },
+  "play": {
+    "message": "Play"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "clipDownload": {
+    "message": "Clip & Download"
+  },
+  "errorSizeExceeded": {
+    "message": "File size cannot exceed 50MB"
+  },
+  "errorLoadFailed": {
+    "message": "Failed to load audio file"
+  },
+  "errorSelectRegion": {
+    "message": "Please select a region to clip"
+  },
+  "errorLoadAudio": {
+    "message": "Please load an audio file first"
+  },
+  "errorClipFailed": {
+    "message": "Failed to clip audio"
+  }
+} 

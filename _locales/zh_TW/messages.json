@@ -1,0 +1,47 @@
+{
+  "extName": {
+    "message": "鈴聲製作器"
+  },
+  "extDescription": {
+    "message": "在線音頻文件裁剪工具"
+  },
+  "selectFile": {
+    "message": "選擇本地音頻文件"
+  },
+  "supportedFormats": {
+    "message": "支持的格式: MP3, WAV, OGG, M4A, AAC"
+  },
+  "sizeLimit": {
+    "message": "文件大小限制: 50MB"
+  },
+  "currentTime": {
+    "message": "當前時間"
+  },
+  "play": {
+    "message": "播放"
+  },
+  "stop": {
+    "message": "停止"
+  },
+  "clipDownload": {
+    "message": "裁剪並下載"
+  },
+  "errorSizeExceeded": {
+    "message": "文件大小不能超過50MB"
+  },
+  "errorLoadFailed": {
+    "message": "音頻文件加載失敗"
+  },
+  "errorSelectRegion": {
+    "message": "請先選擇要裁剪的區域"
+  },
+  "errorLoadAudio": {
+    "message": "請先加載音頻文件"
+  },
+  "errorClipFailed": {
+    "message": "音頻裁剪失敗"
+  },
+  "errorBrowserNotSupported": {
+    "message": "您的瀏覽器不支持音頻處理功能"
+  }
+} 

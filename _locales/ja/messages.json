@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "着信音メーカー"
+  },
+  "extDescription": {
+    "message": "オンライン音声ファイル編集ツール"
+  },
+  "selectFile": {
+    "message": "音声ファイルを選択"
+  },
+  "supportedFormats": {
+    "message": "対応フォーマット: MP3, WAV, OGG, M4A, AAC"
+  },
+  "sizeLimit": {
+    "message": "ファイルサイズ制限: 50MB"
+  },
+  "currentTime": {
+    "message": "現在の時間"
+  },
+  "play": {
+    "message": "再生"
+  },
+  "stop": {
+    "message": "停止"
+  },
+  "clipDownload": {
+    "message": "切り取ってダウンロード"
+  },
+  "errorSizeExceeded": {
+    "message": "ファイルサイズは50MBを超えることはできません"
+  },
+  "errorLoadFailed": {
+    "message": "音声ファイルの読み込みに失敗しました"
+  },
+  "errorSelectRegion": {
+    "message": "切り取る範囲を選択してください"
+  },
+  "errorLoadAudio": {
+    "message": "音声ファイルを先に読み込んでください"
+  },
+  "errorClipFailed": {
+    "message": "音声の切り取りに失敗しました"
+  }
+} 

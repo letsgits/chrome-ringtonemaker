@@ -1,0 +1,44 @@
+{
+  "extName": {
+    "message": "铃声制作器"
+  },
+  "extDescription": {
+    "message": "在线音频文件裁剪工具"
+  },
+  "selectFile": {
+    "message": "选择本地音频文件"
+  },
+  "supportedFormats": {
+    "message": "支持的格式: MP3, WAV, OGG, M4A, AAC"
+  },
+  "sizeLimit": {
+    "message": "文件大小限制: 50MB"
+  },
+  "currentTime": {
+    "message": "当前时间"
+  },
+  "play": {
+    "message": "播放"
+  },
+  "stop": {
+    "message": "停止"
+  },
+  "clipDownload": {
+    "message": "裁剪并下载"
+  },
+  "errorSizeExceeded": {
+    "message": "文件大小不能超过50MB"
+  },
+  "errorLoadFailed": {
+    "message": "音频文件加载失败"
+  },
+  "errorSelectRegion": {
+    "message": "请先选择要裁剪的区域"
+  },
+  "errorLoadAudio": {
+    "message": "请先加载音频文件"
+  },
+  "errorClipFailed": {
+    "message": "音频裁剪失败"
+  }
+} 

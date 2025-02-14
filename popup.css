@@ -1,0 +1,74 @@
+body {
+  width: 500px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #444;
+  margin: 0;
+  font-size: 24px;
+}
+
+.upload-section {
+  text-align: center;
+}
+
+button {
+  background-color: #5D4E8C;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #4A3D70;
+}
+
+.format-info, .size-info {
+  color: #666;
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.waveform-container {
+  height: 128px;
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.time-info {
+  display: flex;
+  justify-content: space-between;
+  color: #666;
+  font-size: 14px;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+/* 添加加载状态样式 */
+.loading {
+  cursor: wait;
+  opacity: 0.7;
+}
+
+/* 添加按钮禁用状态样式 */
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+} 

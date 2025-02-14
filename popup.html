@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>__MSG_extName__✂️</h1>
+    
+    <div class="upload-section">
+      <button id="selectFile">__MSG_selectFile__</button>
+      <p class="format-info">__MSG_supportedFormats__</p>
+      <p class="size-info">__MSG_sizeLimit__</p>
+    </div>
+
+    <div class="waveform-container" id="waveform"></div>
+    
+    <div class="time-info">
+      <span>__MSG_currentTime__: <span id="currentTime">0.00s</span></span>
+    </div>
+
+    <div class="controls">
+      <button id="playBtn">__MSG_play__</button>
+      <button id="stopBtn">__MSG_stop__</button>
+      <button id="clipDownloadBtn">__MSG_clipDownload__</button>
+    </div>
+  </div>
+  <script src="wavesurfer.min.js"></script>
+  <script src="regions.min.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html> 
