@@ -92,7 +92,7 @@
 ## 安装方法
 
 1. 从 Chrome 网上应用店安装
-   - 访问 [Chrome 网上应用店页面]()
+   - 访问 [Chrome 网上应用店页面](https://chromewebstore.google.com/detail/%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C%E5%99%A8/ccabcfkhffkeefpdmnfcdbcjfcbbbkdk)
    - 点击"添加到 Chrome"
 
 2. 开发者模式安装
