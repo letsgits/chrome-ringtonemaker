@@ -222,7 +222,7 @@ Chrome拡張機能で簡単に着信音を作成できます。音声ファイ�
 ## インストール方法
 
 1. Chrome ウェブストアからインストール
-   - [Chrome ウェブストア]()にアクセス
+   - [Chrome ウェブストア](https://chromewebstore.google.com/detail/着信音メーカー/ccabcfkhffkeefpdmnfcdbcjfcbbbkdk)にアクセス
    - 「Chrome に追加」をクリック
 
 2. 開発者モードでインストール
@@ -287,7 +287,7 @@ Chrome拡張機能で簡単に着信音を作成できます。音声ファイ�
 ## 설치 방법
 
 1. Chrome 웹 스토어에서 설치
-   - [Chrome 웹 스토어 페이지]() 방문
+   - [Chrome 웹 스토어 페이지](https://chromewebstore.google.com/detail/벨소리 메이커/ccabcfkhffkeefpdmnfcdbcjfcbbbkdk) 방문
    - "Chrome에 추가" 클릭
 
 2. 개발자 모드로 설치
