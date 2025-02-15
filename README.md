@@ -27,7 +27,7 @@
 ## 安裝方法
 
 1. 從 Chrome 網上應用店安裝
-   - 訪問 [Chrome 網上應用店頁面]()
+   - 訪問 [Chrome 網上應用店頁面](https://chromewebstore.google.com/detail/%E9%88%B4%E8%81%B2%E8%A3%BD%E4%BD%9C%E5%99%A8/ccabcfkhffkeefpdmnfcdbcjfcbbbkdk)
    - 點擊「添加到 Chrome」
 
 2. 開發者模式安裝
@@ -157,7 +157,7 @@ MuQi Ringtones is a professional ringtone download website, providing the latest
 ## Installation
 
 1. Install from Chrome Web Store
-   - Visit [Chrome Web Store Page]()
+   - Visit [Chrome Web Store Page](https://chromewebstore.google.com/detail/ringtone-maker/ccabcfkhffkeefpdmnfcdbcjfcbbbkdk)
    - Click "Add to Chrome"
 
 2. Developer Mode Installation
